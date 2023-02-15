@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NithishK2002
+- 👋 Hi, I’m Nithishkumar
 - 👀 I’m interested in Software development , Web and App development
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on interesting projects
